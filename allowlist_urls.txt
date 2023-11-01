@@ -2,3 +2,4 @@
 # Description: This list my allowlist urls.
 #
 example.com
+danbo.org
