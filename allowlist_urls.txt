@@ -1,1 +1,5 @@
+! Title: Blocklist URLs
+! Description: This list my blocklist urls.
+!
 example.com
+adskav.com
