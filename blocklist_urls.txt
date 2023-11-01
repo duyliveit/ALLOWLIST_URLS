@@ -1,6 +1,6 @@
-! Title: Blocklist URLs
-! Description: This list my blocklist urls.
-!
+# Title: Blocklist URLs
+# Description: This list my blocklist urls.
+#
 example.net
 longkhanhcity.com
 singingfiles.com
