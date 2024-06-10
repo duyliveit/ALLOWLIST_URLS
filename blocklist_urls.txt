@@ -1,4 +1,4 @@
 # Title: Blocklist URLs
 # Description: This list my blocklist urls.
 #
-example.net
+0.0.0.0 example.net
